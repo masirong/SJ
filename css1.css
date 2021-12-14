@@ -1,0 +1,64 @@
+body{background:black;}
+
+p{color: white;
+ text-align: center;}
+
+img{width: 100%;
+    height: auto;}
+
+
+}
+.navbar{
+	background:white;
+	opacity: 0;
+	height: 40px;
+	width: 100%;
+	float:right;
+	margin-left:50px;
+	transform: translateX(0px);
+}
+
+.act{height:1000px;
+width:1300px; }
+
+.black{
+	height:20px;
+	width:100%;
+	background:#9370DB;
+	 
+}
+
+.role{height:1000px;
+width:100%;
+ }
+
+.A{height:40px;
+	width:100%;
+	background:#87CEff;}
+
+.leishen{
+	height:auto;
+	width:100%;
+	filter: brightness(70%);
+}
+
+.leishen:hover{filter: brightness(100%);
+
+}
+
+.xinhai{height:auto;
+	width:100%;
+	filter: brightness(70%);
+ }
+
+.xinhai:hover{filter: brightness(100%);}
+
+.map{height:1000px;
+width:100%;
+background-image: url(地图.png);
+}
+
+.footer{height:100px;
+width:100%;
+background:black;
+margin-bottom: 0: }
